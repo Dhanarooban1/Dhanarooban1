@@ -19,13 +19,7 @@ Proficient in presenting YouTube analytics 📊 such as views and subscribers ef
 
 
 ### I code WITH
-><img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" />
- <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" />
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" />
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/>
- <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" />
- <img height="50" width="50" src="https://img.icons8.com/color/48/000000/tensorflow.png"/> 
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/nodejs.png"/> 
+><img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /><img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" /><img height="50" width="50" src="https://img.icons8.com/color/48/000000/tensorflow.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/nodejs.png"/> 
 
 ### Commitment to continuous learning and passion for technology
 
@@ -73,9 +67,6 @@ Proficient in presenting YouTube analytics 📊 such as views and subscribers ef
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhanarooban1&" alt="dhanarooban1" /></p>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Dhanarooban1&bg_color=000000&color=ffffff&line=00ff33&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhanarooban1" alt="dhanarooban1" /></a> </p>
 
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/dhanarooban?theme=dark&font=Marcellus&ext=heatmap)
