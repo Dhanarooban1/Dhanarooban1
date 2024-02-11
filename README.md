@@ -38,7 +38,7 @@ Proficient in presenting YouTube analytics 📊 such as views and subscribers ef
  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mongodb.png"/> 
 
 
-### Commitment to continuous learning and passion for technology Still in progress, eager to learn and apply my skill.. 
+#### Commitment to continuous learning and passion for technology Still in progress, eager to learn and apply my skill.. 
 
 > <img height="50" width="50" src="https://img.icons8.com/color/48/null/graphql.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/google-firebase-console.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
 
