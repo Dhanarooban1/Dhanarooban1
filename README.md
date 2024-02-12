@@ -50,7 +50,7 @@ Proficient in presenting YouTube analytics 📊 such as views and subscribers ef
 ## 💻 Workspace Spec 
 ### CPU - AMD Ryzen 7 5700U with Radeon Graphics 8 Cores
 
-## Gitguh
+## GITHUB
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhanarooban1&label=Profile%20views&color=0e75b6&style=flat" alt="dhanarooban1" /> </p>
 
