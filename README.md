@@ -10,7 +10,7 @@ Software Engineer
 - 💬 Ask me about Tech
 - 📫 How to reach me :
 <br /> [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/Dhana413078) [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](www.linkedin.com/in/dhanarooban-tech-journey)
-- 😄 Pronouns: Techie
+- 😄 Pronouns: entrepreneur
 - ⚡ Fun fact: Investor and philosopher for my own life.
 
 Proficient in presenting YouTube analytics 📊 such as views and subscribers effectively😉.
