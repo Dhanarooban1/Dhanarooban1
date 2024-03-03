@@ -11,7 +11,7 @@ Software Engineer
 - 😄 Pronouns: Entrepreneur
 - ⚡ Fun fact: Investor and philosopher for my own life.
 
-- ## GITHUB
+## GITHUB
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhanarooban1&label=Profile%20views&color=0e75b6&style=flat" alt="dhanarooban1" /> </p>
 
 Proficient in presenting YouTube analytics 📊 such as views and subscribers effectively😉.
