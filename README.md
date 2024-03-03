@@ -25,8 +25,7 @@ Proficient in presenting YouTube analytics 📊 such as views and subscribers ef
 <img width="48" height="48" src="https://img.icons8.com/color/48/chakra-ui.png" alt="chakra-ui"/>
 
 ### I USE DATABASE PLATFORMS
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/mongodb.png"/> 
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/google-firebase-console.png"/> 
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/mongodb.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/google-firebase-console.png"/> 
 
 ### IDE AND TOOLS I USE
 > <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" /> <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/pycharm.png"/>  <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> <a href="https://commons.wikimedia.org/wiki/File:Google_Colaboratory_SVG_Logo.svg">Google</a>
