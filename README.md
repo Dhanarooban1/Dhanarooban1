@@ -11,6 +11,9 @@ Software Engineer
 - 😄 Pronouns: Entrepreneur
 - ⚡ Fun fact: Investor and philosopher for my own life.
 
+- ## GITHUB
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dhanarooban1&label=Profile%20views&color=0e75b6&style=flat" alt="dhanarooban1" /> </p>
+
 Proficient in presenting YouTube analytics 📊 such as views and subscribers effectively😉.
 - ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCvXYLTOPH7jcLkkkj7XkxbA)
 - ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCvXYLTOPH7jcLkkkj7XkxbA) 
@@ -32,19 +35,14 @@ Proficient in presenting YouTube analytics 📊 such as views and subscribers ef
 
 > <img width="48" height="48" src="https://img.icons8.com/fluency/48/canva.png" alt="canva"/> <img height="50" src="https://img.icons8.com/color/480/null/notion--v1.png" /> <img height="50" width="50" src="https://img.icons8.com/doodle/48/000000/adobe-photoshop.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/figma--v1.png"/>
 
-
 ## 💻 Workspace Spec 
 ### CPU - AMD Ryzen 7 5700U with Radeon Graphics 8 Cores
-
-## GITHUB
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dhanarooban1&label=Profile%20views&color=0e75b6&style=flat" alt="dhanarooban1" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhanarooban1&show_icons=true&locale=en&layout=compact" alt="dhanarooban1" /></p>
-
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhanarooban1&" alt="dhanarooban1" /></p>
 
